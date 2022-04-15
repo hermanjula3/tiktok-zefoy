@@ -7,6 +7,7 @@ pip install pyfiglet==0.7.5</pre>
 2. Install selenium and pyfiglet using pip!
 3. Download chromedriver as your Chrome Browser version https://chromedriver.chromium.org/downloads and put it on the same folder as the python file
 4. Run the .py file!
+5. use python tiktodv3.py  ( not python3 )
 
 ## Note
 The first recaptcha has to be completed manually.
